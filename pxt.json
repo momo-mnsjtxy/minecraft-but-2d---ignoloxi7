@@ -1,0 +1,30 @@
+{
+    "name": "Minecraft but 2D - Ignoloxi7",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.8.29",
+        "tag": "v1.8.29",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d9e3489664e2b8e4c3245a43d28fca1ca5ea001a",
+        "target": "1.11.37",
+        "pxt": "7.4.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
